@@ -35,7 +35,7 @@ This is a simple counter app that allows users to increase, decrease, and reset 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/engsiam/counter-app.git
+   git clone https://github.com/engsiam/Counter-App.git
    ```
 
 2. **Navigate to the project directory**:
@@ -71,7 +71,7 @@ Adjust these values to change the minimum and maximum limits of the counter.
 
 ## If You Like This Project
 
-If you like this project, please consider giving it a ⭐ on [GitHub](https://github.com/engsiam/counter-app).
+If you like this project, please consider giving it a ⭐ on [GitHub](https://github.com/engsiam/Counter-App).
 
 ## License
 
