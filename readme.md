@@ -24,10 +24,10 @@ This is a simple counter app that allows users to increase, decrease, and reset 
 ## Screenshots
 
 ### Light Mode
-![Light Mode](https://ibb.co/4MqJgXY) <!-- Add light mode screenshot link here -->
+![Light Mode](https://i.imgur.com/sKUW1YG.png) <!-- Add light mode screenshot link here -->
 
 ### Dark Mode
-![Dark Mode](https://ibb.co/tKDW5GT) <!-- Add dark mode screenshot link here -->
+![Dark Mode](https://i.imgur.com/vcfDzn3.png) <!-- Add dark mode screenshot link here -->
 
 ## Installation
 
