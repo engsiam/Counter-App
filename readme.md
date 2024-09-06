@@ -1,4 +1,4 @@
-Here's the updated **README.md** with a **Versioning** section that includes a description of what was changed in the second version of your Counter App.
+
 
 ```markdown
 # Counter App with Dark Mode
@@ -123,3 +123,4 @@ If you like this project, please consider giving it a ⭐ on [GitHub](https://gi
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+```
