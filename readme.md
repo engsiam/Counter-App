@@ -19,7 +19,7 @@ This is a simple counter app that allows users to increase, decrease, and reset 
 
 ## Live Demo
 
-[Live Counter App](https://66d9f64914f9445be72d9b85--aquamarine-llama-21e8bc.netlify.app/) <!-- Add your live demo link here if hosted online -->
+[Live Counter App](https://66da8a78d9eea402d589f8c1--aquamarine-llama-21e8bc.netlify.app) <!-- Add your live demo link here if hosted online -->
 
 ## Screenshots
 
