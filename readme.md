@@ -1,49 +1,21 @@
-
-```markdown
 # Counter App with Dark Mode
 
-This is a simple, interactive counter app that allows users to increase, decrease, and reset the counter. It includes features such as customizable step size, keyboard controls, sound effects, and a toggleable dark mode. The app offers a modern UI, responsive design, and smooth transitions between light and dark themes.
+This is a simple counter app that allows users to increase, decrease, and reset the counter, with additional features like customizable step size, keyboard controls, sound effects, and a toggleable dark mode.
 
 ## Features
 
-- **Increment/Decrement Counter**:
-  - Use the **"+"** and **"-"** buttons to increment and decrement the counter.
-  - You can also use the **ArrowUp** and **ArrowDown** keys on your keyboard for the same functionality.
-
-- **Custom Step Size**:
-  - Customize how much the counter increments or decrements by entering a value in the step input field.
-  - Default step size is **1**.
-
-- **Double Increment/Decrement**:
-  - Hold the **Shift** key while pressing the **ArrowUp** or **ArrowDown** keys to double the step size for faster increments or decrements.
-
-- **Reset Counter**:
-  - Use the **Reset** button or press the **r** key to reset the counter back to zero.
-
+- **Increment/Decrement Counter**: Use the "+" and "-" buttons or the up/down arrow keys to increase or decrease the counter.
+- **Custom Step Size**: Specify a custom step size for increments/decrements using the step input.
+- **Double Increment/Decrement**: Hold the **Shift** key while pressing the up or down arrow to double the step size.
 - **Keyboard Shortcuts**:
-  - **ArrowUp**: Increment the counter.
-  - **ArrowDown**: Decrement the counter.
-  - **Shift + ArrowUp/ArrowDown**: Double the step size for faster increments or decrements.
-  - **r**: Reset the counter to zero.
-  - **m**: Toggle sound on/off.
-  - **d**: Toggle dark mode on/off.
-
-- **Sound Effects**:
-  - A click sound is played every time the counter is increased or decreased, adding to the interactive experience.
-  - You can toggle sound effects on or off using the **Sound Toggle** button or the **m** key.
-  
-- **Button Disabling at Limits**:
-  - The **"+"** and **"-"** buttons will automatically be disabled when the counter reaches its maximum or minimum limits to prevent overflows.
-
-- **Warning Message**:
-  - When the counter reaches the maximum or minimum defined limits, a warning message will be displayed to alert the user.
-
-- **Dark Mode**:
-  - Easily toggle between **Light Mode** and **Dark Mode** using the **Dark Mode** button or the **d** key.
-  - The app will remember your dark mode preference using **localStorage**, so your choice is persistent even after you refresh the page.
-
-- **Responsive Design**:
-  - The app is fully responsive and works seamlessly on mobile, tablet, and desktop devices.
+  - Press **ArrowUp** to increment.
+  - Press **ArrowDown** to decrement.
+  - Press **Shift + ArrowUp/Down** to double the step.
+  - Press **r** to reset the counter.
+- **Sound Effects**: Plays a click sound every time the counter is increased or decreased.
+- **Disable Buttons at Limits**: The "+" and "-" buttons will be disabled when the counter reaches its maximum or minimum limits.
+- **Warning Message**: Displays a message when the counter reaches the defined limits.
+- **Dark Mode**: Toggle between light and dark themes using the **"Dark Mode"** button. The app remembers your choice using localStorage.
 
 ## Live Demo
 
@@ -52,17 +24,17 @@ This is a simple, interactive counter app that allows users to increase, decreas
 ## Screenshots
 
 ### Light Mode
-![Light Mode](https://i.imgur.com/2Hdrzwt.png) 
+![Light Mode](https://ibb.co/4MqJgXY) <!-- Add light mode screenshot link here -->
 
-### Dark Mode 
-![Dark Mode](https://i.imgur.com/JBIeG8y.png)
+### Dark Mode
+![Dark Mode](https://ibb.co/tKDW5GT) <!-- Add dark mode screenshot link here -->
 
 ## Installation
 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/engsiam/Counter-App.git
+   git clone https://github.com/engsiam/counter-app.git
    ```
 
 2. **Navigate to the project directory**:
@@ -121,14 +93,3 @@ If you like this project, please consider giving it a ⭐ on [GitHub](https://gi
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-### Summary of Fixes:
-1. **Markdown Syntax**: Proper Markdown formatting has been applied.
-2. **Live Demo Link**: Placeholder added for a live demo URL, if available.
-3. **Screenshots**: Links for light and dark mode screenshots are included.
-4. **Installation and Usage**: Clear instructions provided for cloning and running the app locally.
-5. **Versioning**: The changes in version 2.0.0 are highlighted, showing improvements over version 1.0.0.
-6. **Links**: Suggestions for starring the project on GitHub and an MIT License link are included.
-
-You can now copy and paste this into your `README.md` file on GitHub!
